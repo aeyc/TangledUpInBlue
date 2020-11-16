@@ -8,4 +8,4 @@ ToDo List
 - Zero-sum game description
 - Minimax algorithm & alpha-beta pruning
 - Stockfish,GNU, LCZero algorithm evaluation
-- Cannot find an chess engine API's, currently using Stockfish engine in local
+- Cannot find a chess engine API, currently using Stockfish engine in local
